@@ -2,7 +2,7 @@
 - 👀 I’m interested in websites and networks
 - 🌱 I’m currently learning ICT management
 - 💞️ I’m looking to collaborate on system administration,and AI development
-- 📫 How to reach me via my email address dENISmaina880@gmail.com
+- 📫 How to reach me via my email address denismaina880@gmail.com
 
 <!---
 KALISPOT-websites/KALISPOT-websites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
